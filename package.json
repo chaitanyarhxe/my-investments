@@ -10,5 +10,8 @@
   },
   "scripts": {
     "start": "npx cds run"
+  },
+  "devDependencies": {
+    "sqlite3": "^4.1.1"
   }
 }
